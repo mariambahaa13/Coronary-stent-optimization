@@ -4,13 +4,22 @@
 <!-- Replace with a strong visual: e.g. a collage of your stent designs, stress contours, or the optimized geometry -->
 ## Stent Geometries
 
-Three distinct parametric stent designs were developed in SolidWorks to evaluate the influence of geometry on mechanical performance under radial expansion loading.
+Three distinct parametric stent designs were developed in SolidWorks:
 
-### 1. Zig-Zag Geometry
-![Zig-Zag Stent](images/zigzag.png)
-
-### 2. Staggered Slotted-Tube Geometry
-![Staggered Slotted-Tube](images/slotted.png)
-
-### 3. Hybrid Alternating Sinusoidal Geometry *(Best performing – selected for topology optimization)*
-![Hybrid Sinusoidal Stent](images/hybrid.png)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="images/zigzag.png" width="100%" /><br>
+      <b>Zig-Zag Geometry</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/slotted.png" width="100%" /><br>
+      <b>Staggered Slotted-Tube Geometry</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/hybrid.png" width="100%" /><br>
+      <b>Hybrid Sinusoidal Geometry</b><br>
+      <i>(Selected for topology optimization)</i>
+    </td>
+  </tr>
+</table>
