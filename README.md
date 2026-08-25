@@ -25,10 +25,11 @@ Three distinct parametric stent designs were developed in SolidWorks:
 </table>
 ## Key Results
 
-- Achieved a **50% material reduction** on the PLA Hybrid stent using the SIMP topology optimization method, while preserving the required radial support.
-- Material was intelligently redistributed: removed from low-stress longitudinal connectors and concentrated in critical load-bearing regions (crowns and hinges).
+- **50% material reduction** achieved on the PLA Hybrid stent using the SIMP topology optimization method, while maintaining the required radial support.
+- Material was intelligently redistributed — removed from low-stress longitudinal connectors and concentrated in critical load-bearing regions (crowns and hinges).
 - The optimized geometry was successfully reconstructed and smoothed in nTopology, producing a continuous, printable design suitable for additive manufacturing.
-- Physical prototypes of both the original and optimized PLA stents were successfully 3D printed using FDM for direct visual and structural comparison.
-- The **Hybrid Alternating Sinusoidal geometry** consistently outperformed the Zig-Zag and Staggered Slotted-Tube designs across all five tested biomaterials.
+- Physical prototypes of both the original and optimized PLA stents were successfully 3D printed using FDM for direct comparison.
 
-![Before vs After Topology Optimization](before_after.png)
+### Before vs After Topology Optimization
+![Before and After Optimization](images/before_after.png)
+<!-- Replace with a side-by-side photo of the original printed stent (left) and the optimized printed stent (right) -->
