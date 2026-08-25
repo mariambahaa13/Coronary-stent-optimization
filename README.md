@@ -31,4 +31,4 @@ Three distinct parametric stent designs were developed in SolidWorks:
 - Physical prototypes of both the original and optimized PLA stents were successfully 3D printed using FDM for direct visual and structural comparison.
 - The **Hybrid Alternating Sinusoidal geometry** consistently outperformed the Zig-Zag and Staggered Slotted-Tube designs across all five tested biomaterials.
 
-![Before vs After Topology Optimization](images/hero.png)
+![Before vs After Topology Optimization](before_after.png)
