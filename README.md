@@ -32,4 +32,7 @@ Three distinct parametric stent designs were developed in SolidWorks:
 
 ### Before vs After Topology Optimization
 
-<img src="images/before_after.png" width="650">
+<p align="center">
+  <img src="images/before_after.png" width="600">
+</p>
+
