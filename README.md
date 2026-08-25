@@ -31,5 +31,5 @@ Three distinct parametric stent designs were developed in SolidWorks:
 - Physical prototypes of both the original and optimized PLA stents were successfully 3D printed using FDM for direct comparison.
 
 ### Before vs After Topology Optimization
-![Before and After Optimization](images/before_after.png)
-<!-- Replace with a side-by-side photo of the original printed stent (left) and the optimized printed stent (right) -->
+
+<img src="images/before_after.png" width="650">
